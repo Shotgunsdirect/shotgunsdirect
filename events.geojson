@@ -1,0 +1,51 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-124.201708, 41.75621]
+        },
+        "properties": {
+          "id": 1,
+          "title": "Crecent City, CA",
+          "date": "April 15, 2023",
+          "date-iso": "2023-04-15",
+          "description": "Shotguns Direct Event and Redemption - Shotguns Direct HQ",
+          "address": "250 9th St, Crescent City, CA 95531"
+        }
+      }
+    ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-116.215019, 43.618881 ]
+        },
+        "properties": {
+            "id": 2,
+            "title": "Boise, ID",
+            "date": "April 22, 2023",
+            "date-iso": "2023-04-22",
+            "description": "Shotguns Direct Event and Redemption - Holiday Inn Boise Airport",
+            "address": "2970 W Elder St, Boise, ID 83705-4706"
+          }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.296508, 33.775584]
+        },
+        "properties": {
+            "id": 3,
+            "title": "Decatur, Georgia",
+            "date": "April 29, 2023",
+            "date-iso": "2023-04-29",
+            "description": "Shotguns Direct Event and Redemption - Decatur Conference Center",
+            "address": "130 Clairemont Ave, Decatur, GA 30030"
+          }
+      }
+    ]
+  }
